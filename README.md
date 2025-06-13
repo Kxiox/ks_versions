@@ -1,1 +1,2 @@
-# ks_bossmenu_testv
+# ks_versions
+This repo is only for versionchecks!
